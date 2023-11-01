@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Storing_and_Updating_Teacher_Records
+build_property.ProjectDir = M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\

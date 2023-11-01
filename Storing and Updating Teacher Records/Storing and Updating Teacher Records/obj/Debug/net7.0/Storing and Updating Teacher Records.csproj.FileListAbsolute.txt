@@ -1,0 +1,14 @@
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.exe
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.deps.json
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.runtimeconfig.json
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.dll
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\bin\Debug\net7.0\Storing and Updating Teacher Records.pdb
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.GeneratedMSBuildEditorConfig.editorconfig
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.AssemblyInfoInputs.cache
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.AssemblyInfo.cs
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.csproj.CoreCompileInputs.cache
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.dll
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\refint\Storing and Updating Teacher Records.dll
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.pdb
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\Storing and Updating Teacher Records.genruntimeconfig.cache
+M:\Phase-2 Assignments\project-2\Storing and Updating Teacher Records\Storing and Updating Teacher Records\obj\Debug\net7.0\ref\Storing and Updating Teacher Records.dll
